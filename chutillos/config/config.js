@@ -1,0 +1,1 @@
+module.exports.PalabraSecreta='shdn2io3u91456289j9348h9';
